@@ -38,22 +38,22 @@
 
 > A few repos that represent what I enjoy working on.
 
-- 🧩 [Two-pass Assembler Simulator (ANSI C90)](https://github.com/SemionVlad/Two-Pass-Assembly-Simulator-20465-C) – system programming project implementing a two-pass assembler, with strict C90 compliance and modular design.  
+- 🧩 [Two-pass Assembler Simulator (ANSI C90)](https://github.com/blackhebrewisraeli/C-Assembler-Simulator) – system programming project implementing a two-pass assembler, with strict C90 compliance and modular design.  
 
-- 📚 [Java Sorting & Searching Templates](https://github.com/SemionVlad/Java-sorting-searching-templates) – reusable implementations of classic algorithms (MergeSort, CountingSort, BinarySearch, etc.) with documentation for learning and reuse.  
+- 📚 [Java Sorting & Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates) – reusable implementations of classic algorithms (MergeSort, CountingSort, BinarySearch, etc.) with documentation for learning and reuse.  
 
-- 🏦 [Python + SQL Bank Account Database](https://github.com/SemionVlad/Python-SQL-Bank-Account-Database) – small project combining Python and SQLite3 to practice database design and basic automation.  
+- 🏦 [Python + SQL Bank Account Database](https://github.com/blackhebrewisraeli/Python-SQL-Bank-Account-Database) – small project combining Python and SQLite3 to practice database design and basic automation.  
 
 ---
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SemionVlad&show_icons=true&theme=dracula" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blackhebrewisraeli&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemionVlad&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhebrewisraeli&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
 ---

@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Shimi (Shimon) 👋</h1>
 
 <p align="center">
-  <img src="images/army-profile.jpg" alt="Shimi in IDF reserve uniform" width="320" />
+  <img src="images/army-profile.jpeg" alt="Shimi in IDF reserve uniform" width="320" />
 </p>
 
 

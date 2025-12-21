@@ -69,8 +69,12 @@
 
 ## 📫 How to reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shimon-esterkin/)  
-- 📧 [esterkinshimon712@gmail.com](mailto:esterkinshimon712@gmail.com)  
-- 📸 [Instagram – @blackhebrewisraeli](https://www.instagram.com/blackhebrewisraeli/)
+I'm always open to professional opportunities and interesting collaborations. To protect my privacy from spam bots, I don't share my personal email directly here. 
+
+**Choose your preferred way to connect:**
+
+- 💼 **Professional Inquiry:** [Message me on LinkedIn](https://www.linkedin.com/in/shimon-esterkin/)
+- 📧 **Request my Email:** Please [**Open a "Contact Request" Issue**](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...) and I'll get back to you personally.
+- 📸 **Social:** [Follow me on Instagram](https://www.instagram.com/blackhebrewisraeli/)
 
 If you like something here, feel free to ⭐ a repo or reach out – I’m always happy to connect with other learners and devs 🙂

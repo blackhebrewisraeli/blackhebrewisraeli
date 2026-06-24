@@ -27,8 +27,10 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -40,6 +42,10 @@
 
 - 🧩 [Two-pass Assembler Simulator (ANSI C90)](https://github.com/blackhebrewisraeli/C-Assembler-Simulator) – system programming project implementing a two-pass assembler, with strict C90 compliance and modular design.  
 
+- 🚌 [Transportation System (Spring Boot)](https://github.com/blackhebrewisraeli/Transportation-system-project) – backend-oriented Spring Boot application for managing employee transportation requests in shift-based operations.  
+
+- 🔬 [eBPF / BCC Tracing Lab](https://github.com/blackhebrewisraeli/ebpf-bcc-tracing-lab) – Linux eBPF/BCC tracing environment for syscall observability, exploring low-level system instrumentation.  
+
 - 📚 [Java Sorting & Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates) – reusable implementations of classic algorithms (MergeSort, CountingSort, BinarySearch, etc.) with documentation for learning and reuse.  
 
 - 🏦 [Python + SQL Bank Account Database](https://github.com/blackhebrewisraeli/Python-SQL-Bank-Account-Database) – small project combining Python and SQLite3 to practice database design and basic automation.  
@@ -48,6 +54,7 @@
 
 ## 🎓 Certificates & Courses
 
+- 🟢 **GitHub Foundations** (in progress) – completed the hands-on [GitHub Skills](https://github.com/blackhebrewisraeli/github-skills-journey) practices while preparing for the certification.  
 - **Learn Python Programming - Beginner to Master** (Udemy) – [view certificate](https://ude.my/UC-b08dee3d-03ef-4725-8f76-b30c942ec7cf)  
 - **Java Bootcamp: Learn Java with 100+ Java Projects** (Udemy) – [view certificate](https://ude.my/UC-36bf607e-9bf2-4848-9284-cd838a676bbc)  
 

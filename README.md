@@ -12,8 +12,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=blackhebrewisraeli&label=Profile%20views&color=0969da&style=flat-square" alt="profile views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-esterkin/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimon%20Esterkin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterkin-shimon/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40blackhebrewisraeli-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
 [![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-In%20progress-2da44e?style=flat-square&logo=github)](https://github.com/blackhebrewisraeli/github-skills-journey)
 
 </div>
@@ -135,9 +135,9 @@ I'm always open to professional opportunities and interesting collaborations. To
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Professional%20inquiry-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-esterkin/)
-[![Email Request](https://img.shields.io/badge/Request%20my%20email-Open%20an%20Issue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...)
-[![Instagram](https://img.shields.io/badge/Social-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimon%20Esterkin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterkin-shimon/)
+[![Email Request](https://img.shields.io/badge/Email-Open%20an%20Issue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...)
+[![Instagram](https://img.shields.io/badge/Instagram-%40blackhebrewisraeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
 
 </div>
 

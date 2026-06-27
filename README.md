@@ -75,6 +75,26 @@ I'm a **Computer Science student** who loves understanding how things work *unde
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         LANGUAGES                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🗣️ Languages
+
+<div align="center">
+
+![Hebrew](https://img.shields.io/badge/Hebrew-Fluent-2da44e?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-Fluent-2da44e?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent-2da44e?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Intermediate-f0883e?style=for-the-badge)
+![Portuguese](https://img.shields.io/badge/Portuguese-Intermediate-f0883e?style=for-the-badge)
+
+<sub>🇮🇱 🇷🇺 🇬🇧 fluent &nbsp;·&nbsp; 🇩🇪 🇵🇹 intermediate &amp; actively improving</sub>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      FEATURED PROJECTS                       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 

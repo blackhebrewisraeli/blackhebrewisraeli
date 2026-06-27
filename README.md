@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:2da44e&height=220&section=header&text=Hi%2C%20I'm%20Shimi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20student%20%C2%B7%20Systems%20%26%20Backend%20%C2%B7%20Security-curious&descSize=18&descAlignY=58" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:2da44e&height=220&section=header&text=Hi%2C%20I%27m%20Shimi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20Systems%20and%20Backend%20%C2%B7%20Security-curious&descSize=18&descAlignY=58" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=0969DA&center=true&vCenter=true&width=680&lines=Computer+Science+student+%F0%9F%8E%93;Systems+%26+backend+enthusiast+%E2%9A%99%EF%B8%8F;Security-curious+developer+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing" />
 

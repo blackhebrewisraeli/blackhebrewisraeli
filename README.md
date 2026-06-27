@@ -1,29 +1,65 @@
-<!-- Banner -->
-<h1 align="center">Hi there, I'm Shimi (Shimon) 👋</h1>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          HEADER                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="army-profile.jpeg" alt="Shimi in IDF reserve uniform" width="320" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science student · Systems & backend enthusiast · Security-curious dev</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:2da44e&height=220&section=header&text=Hi%2C%20I'm%20Shimi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20student%20%C2%B7%20Systems%20%26%20Backend%20%C2%B7%20Security-curious&descSize=18&descAlignY=58" alt="header" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=0969DA&center=true&vCenter=true&width=680&lines=Computer+Science+student+%F0%9F%8E%93;Systems+%26+backend+enthusiast+%E2%9A%99%EF%B8%8F;Security-curious+developer+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=blackhebrewisraeli&label=Profile%20views&color=0969da&style=flat-square" alt="profile views" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-esterkin/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-In%20progress-2da44e?style=flat-square&logo=github)](https://github.com/blackhebrewisraeli/github-skills-journey)
+
+</div>
 
 ---
 
-## 👨‍💻 About me
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ABOUT                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-- 🎓 B.Sc. Computer Science student at the Open University of Israel  
-- 💻 Hands-on experience with low-level and system programming (ANSI C), Java and Python  
-- 🧠 Interested in: algorithms, data structures, databases and cybersecurity  
-- 🐧 Comfortable working in Linux environments (Ubuntu) and with Git/GitHub  
-- ⚽ Off-code: football (and football jerseys 😅), travel, and loud music
+## 👋 Welcome to my corner of GitHub
+
+<table>
+<tr>
+<td valign="top" width="62%">
+
+I'm a **Computer Science student** who loves understanding how things work *under the hood* — from low-level **C** and operating systems to **backend** services and **security**. I build, I break things on purpose, I learn, and I document the journey along the way.
+
+- 🎓 B.Sc. Computer Science student at the **Open University of Israel**
+- 💻 Hands-on with low-level &amp; systems programming (**ANSI C**), **Java** &amp; **Python**
+- 🧠 Into algorithms, data structures, databases &amp; **cybersecurity**
+- 🐧 At home in **Linux** (Ubuntu) and with **Git/GitHub**
+- ⚽ Off-code: football (&amp; football jerseys 😅), travel, and loud music
+
+</td>
+<td valign="top" width="38%">
+
+<img src="army-profile.jpeg" alt="Shimi" width="100%" style="border-radius:12px" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech stack
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TECH STACK                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-**Languages & tools**
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,spring,python,sqlite,docker,git,linux,bash,github&theme=dark" alt="tech stack icons" />
+
+<br/><br/>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,54 +70,85 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🚀 Selected projects
-
-> A few repos that represent what I enjoy working on.
-
-- 🧩 [Two-pass Assembler Simulator (ANSI C90)](https://github.com/blackhebrewisraeli/C-Assembler-Simulator) – system programming project implementing a two-pass assembler, with strict C90 compliance and modular design.  
-
-- 🚌 [Transportation System (Spring Boot)](https://github.com/blackhebrewisraeli/Transportation-system-project) – backend-oriented Spring Boot application for managing employee transportation requests in shift-based operations.  
-
-- 🔬 [eBPF / BCC Tracing Lab](https://github.com/blackhebrewisraeli/ebpf-bcc-tracing-lab) – Linux eBPF/BCC tracing environment for syscall observability, exploring low-level system instrumentation.  
-
-- 📚 [Java Sorting & Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates) – reusable implementations of classic algorithms (MergeSort, CountingSort, BinarySearch, etc.) with documentation for learning and reuse.  
-
-- 🏦 [Python + SQL Bank Account Database](https://github.com/blackhebrewisraeli/Python-SQL-Bank-Account-Database) – small project combining Python and SQLite3 to practice database design and basic automation.  
+</div>
 
 ---
 
-## 🎓 Certificates & Courses
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      FEATURED PROJECTS                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-- 🟢 **GitHub Foundations** (in progress) – completed the hands-on [GitHub Skills](https://github.com/blackhebrewisraeli/github-skills-journey) practices while preparing for the certification.  
-- **Learn Python Programming - Beginner to Master** (Udemy) – [view certificate](https://ude.my/UC-b08dee3d-03ef-4725-8f76-b30c942ec7cf)  
-- **Java Bootcamp: Learn Java with 100+ Java Projects** (Udemy) – [view certificate](https://ude.my/UC-36bf607e-9bf2-4848-9284-cd838a676bbc)  
+## 🚀 Featured Projects
 
-> More courses and certificates will be added over time as I keep learning.
+> A few repositories that capture what I enjoy building.
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackhebrewisraeli&show_icons=true&theme=dracula" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhebrewisraeli&layout=compact&theme=dracula" alt="Top Langs" />
-</p>
+| 🧩 Project | What it is |
+|:-----------|:-----------|
+| **[Two-pass Assembler Simulator (ANSI C90)](https://github.com/blackhebrewisraeli/C-Assembler-Simulator)** | A system-programming project implementing a two-pass assembler — strict C90 compliance, modular design. |
+| **[Transportation System (Spring Boot)](https://github.com/blackhebrewisraeli/Transportation-system-project)** | Backend application for managing employee transportation requests in shift-based operations. |
+| **[eBPF / BCC Tracing Lab](https://github.com/blackhebrewisraeli/ebpf-bcc-tracing-lab)** | Linux eBPF/BCC tracing environment for syscall observability and low-level instrumentation. |
+| **[Java Sorting &amp; Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates)** | Reusable implementations of classic algorithms (MergeSort, CountingSort, BinarySearch…) with docs. |
+| **[Python + SQL Bank Account Database](https://github.com/blackhebrewisraeli/Python-SQL-Bank-Account-Database)** | A compact Python + SQLite3 project for practicing database design and automation. |
 
 ---
 
-## 📫 How to reach me
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  CERTIFICATIONS & LEARNING                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-I'm always open to professional opportunities and interesting collaborations. To protect my privacy from spam bots, I don't share my personal email directly here. 
+## 🎓 Certifications &amp; Learning
 
-**Choose your preferred way to connect:**
+- 🟢 **GitHub Foundations** *(in progress)* — completed 14 hands-on [GitHub Skills practices](https://github.com/blackhebrewisraeli/github-skills-journey) while preparing for the certification.
+- 🐍 **Learn Python Programming – Beginner to Master** (Udemy) — [view certificate](https://ude.my/UC-b08dee3d-03ef-4725-8f76-b30c942ec7cf)
+- ☕ **Java Bootcamp: Learn Java with 100+ Projects** (Udemy) — [view certificate](https://ude.my/UC-36bf607e-9bf2-4848-9284-cd838a676bbc)
 
-- 💼 **Professional Inquiry:** [Message me on LinkedIn](https://www.linkedin.com/in/shimon-esterkin/)
-- 📧 **Request my Email:** Please [**Open a "Contact Request" Issue**](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...) and I'll get back to you personally.
-- 📸 **Social:** [Follow me on Instagram](https://www.instagram.com/blackhebrewisraeli/)
+> More courses and certificates will be added as I keep learning. 📚
 
-If you like something here, feel free to ⭐ a repo or reach out – I’m always happy to connect with other learners and devs 🙂
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       GITHUB STATS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub in Numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=blackhebrewisraeli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhebrewisraeli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhebrewisraeli&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=blackhebrewisraeli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       LET'S CONNECT                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🤝 Let's Connect
+
+I'm always open to professional opportunities and interesting collaborations. To keep my inbox spam-free, I don't post my email directly — but I'm easy to reach:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Professional%20inquiry-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-esterkin/)
+[![Email Request](https://img.shields.io/badge/Request%20my%20email-Open%20an%20Issue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...)
+[![Instagram](https://img.shields.io/badge/Social-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
+
+</div>
+
+<div align="center">
+
+If something here caught your eye, feel free to ⭐ a repo or say hi — I'm always happy to connect with fellow learners and builders 🙂
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2da44e,100:0969da&height=120&section=footer" alt="footer" width="100%" />
+
+</div>

@@ -121,10 +121,6 @@ I'm a **Computer Science student** who loves understanding how things work *unde
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhebrewisraeli&theme=tokyonight&hide_border=true" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=blackhebrewisraeli&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
-
 </div>
 
 ---

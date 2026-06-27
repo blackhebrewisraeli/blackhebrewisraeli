@@ -114,12 +114,12 @@ I'm a **Computer Science student** who loves understanding how things work *unde
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=blackhebrewisraeli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhebrewisraeli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=blackhebrewisraeli&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhebrewisraeli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top langs" />
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhebrewisraeli&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=blackhebrewisraeli&theme=github_dark&hide_border=true" alt="streak" />
 
 </div>
 

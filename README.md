@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=blackhebrewisraeli&label=Profile%20views&color=0969da&style=flat-square" alt="profile views" />
+<a href="https://github.com/blackhebrewisraeli?tab=followers"><img src="https://img.shields.io/github/followers/blackhebrewisraeli?label=Followers&style=flat-square&color=0969da&logo=github" alt="followers" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimon%20Esterkin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterkin-shimon/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40blackhebrewisraeli-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)

@@ -130,9 +130,9 @@ I'm a **Computer Science student** at the Open University of Israel with hands-o
 | Project | Highlights |
 |:--------|:-----------|
 | **[Two-pass Assembler Simulator (ANSI C90)](https://github.com/blackhebrewisraeli/C-Assembler-Simulator)** | Two-pass assembler in strict C90 · modular design · Open University systems project |
-| **[Transportation System (Spring Boot)](https://github.com/blackhebrewisraeli/Transportation-system-project)** | Backend app for shift-based employee transportation requests |
 | **[eBPF / BCC Tracing Lab](https://github.com/blackhebrewisraeli/ebpf-bcc-tracing-lab)** | Linux syscall observability with eBPF/BCC · low-level instrumentation |
 | **[Python + SQL Bank Account Database](https://github.com/blackhebrewisraeli/Python-SQL-Bank-Account-Database)** | SQLite schema design · seed data · ER diagram auto-published via GitHub Actions |
+| **[Java Sorting &amp; Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates)** | Reusable algorithm implementations with clear docs · learning and reuse |
 | **[GitHub Skills Journey](https://github.com/blackhebrewisraeli/github-skills-journey)** | Curated log of 14 GitHub Skills practices · GitHub Foundations prep |
 
 <details>
@@ -142,8 +142,8 @@ I'm a **Computer Science student** at the Open University of Israel with hands-o
 
 | Project | Highlights |
 |:--------|:-----------|
-| **[Java Sorting &amp; Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates)** | Reusable algorithm implementations with documentation |
 | **[C Adjacency Matrix](https://github.com/blackhebrewisraeli/C-Adjacency-Matrix)** | Binary-tree connectivity via N×N adjacency matrix |
+| **[xv6 Docker Environment](https://github.com/blackhebrewisraeli/xv6-docker-environment)** | Dockerized build and run setup for xv6 with QEMU |
 | **[Shift Management System](https://github.com/blackhebrewisraeli/shift-management-system)** | Backend-oriented shift scheduling and availability tracking |
 
 </details>

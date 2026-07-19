@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fshimon--esterkin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimon-esterkin/)
 [![Instagram](https://img.shields.io/badge/Instagram-blackhebrewisraeli-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/blackhebrewisraeli/)
-[![GitHub Skills Journey](https://img.shields.io/badge/GitHub%20Skills%20Journey-24%20practices-181717?style=flat-square&logo=github)](https://github.com/blackhebrewisraeli/github-skills-journey)
+[![GitHub Skills Journey](https://img.shields.io/badge/GitHub%20Skills%20Journey-26%20practices-181717?style=flat-square&logo=github)](https://github.com/blackhebrewisraeli/github-skills-journey)
 
 </div>
 
@@ -34,7 +34,7 @@
 | **Focus** | Backend · systems programming · security · databases |
 | **Stack** | C · Java · Spring Boot · Python · SQL · Docker · Linux · Git |
 | **Education** | B.Sc. Computer Science — Open University of Israel |
-| **Certification** | GitHub Foundations *(in progress — [24 hands-on practices](https://github.com/blackhebrewisraeli/github-skills-journey))* |
+| **Certification** | GitHub Foundations *(in progress — [26 hands-on practices](https://github.com/blackhebrewisraeli/github-skills-journey))* |
 | **Contact** | [LinkedIn](https://www.linkedin.com/in/shimon-esterkin/) · [open a GitHub issue](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...) |
 
 **Jump to:** [About](#-about-me) · [Tech Stack](#%EF%B8%8F-tech-stack) · [Languages](#%EF%B8%8F-languages) · [Projects](#-featured-projects) · [Certifications](#-certifications--learning) · [Stats](#-github-in-numbers) · [Connect](#-lets-connect)
@@ -133,7 +133,7 @@ I'm a **Computer Science student** at the Open University of Israel with hands-o
 | **[eBPF / BCC Tracing Lab](https://github.com/blackhebrewisraeli/ebpf-bcc-tracing-lab)** | Linux syscall observability with eBPF/BCC · low-level instrumentation |
 | **[Python + SQL Bank Account Database](https://github.com/blackhebrewisraeli/Python-SQL-Bank-Account-Database)** | SQLite schema design · seed data · ER diagram auto-published via GitHub Actions |
 | **[Java Sorting &amp; Searching Templates](https://github.com/blackhebrewisraeli/Java-sorting-searching-templates)** | Reusable algorithm implementations with clear docs · learning and reuse |
-| **[GitHub Skills Journey](https://github.com/blackhebrewisraeli/github-skills-journey)** | Curated log of 24 GitHub Skills practices · GitHub Foundations prep |
+| **[GitHub Skills Journey](https://github.com/blackhebrewisraeli/github-skills-journey)** | Curated log of 26 GitHub Skills practices · GitHub Foundations prep |
 
 <details>
 <summary><b>More repositories worth a look</b></summary>
@@ -158,7 +158,7 @@ I'm a **Computer Science student** at the Open University of Israel with hands-o
 
 | Status | Credential |
 |:------:|:-----------|
-| 🟢 In progress | **GitHub Foundations** — [24 hands-on GitHub Skills practices completed](https://github.com/blackhebrewisraeli/github-skills-journey) |
+| 🟢 In progress | **GitHub Foundations** — [26 hands-on GitHub Skills practices completed](https://github.com/blackhebrewisraeli/github-skills-journey) |
 | ✅ Completed | **Learn Python Programming – Beginner to Master** (Udemy) — [certificate](https://ude.my/UC-b08dee3d-03ef-4725-8f76-b30c942ec7cf) |
 | ✅ Completed | **Java Bootcamp: Learn Java with 100+ Projects** (Udemy) — [certificate](https://ude.my/UC-36bf607e-9bf2-4848-9284-cd838a676bbc) |
 

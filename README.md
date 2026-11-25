@@ -38,7 +38,7 @@
 | **Certification** | GitHub Foundations *(in progress — [28 hands-on practices](https://github.com/blackhebrewisraeli/github-skills-journey))* |
 | **Contact** | [LinkedIn](https://www.linkedin.com/in/shimon-esterkin/) · [open a GitHub issue](https://github.com/blackhebrewisraeli/blackhebrewisraeli/issues/new?title=Contact+Request+from+GitHub+Profile&body=Hi+Shimon,+I+would+like+to+connect+regarding...) |
 
-**Jump to:** [About](#-about-me) · [Tech Stack](#%EF%B8%8F-tech-stack) · [Languages](#%EF%B8%8F-languages) · [Projects](#-featured-projects) · [Certifications](#-certifications--learning) · [Stats](#-github-in-numbers) · [Connect](#-lets-connect)
+**Jump to:** [About](#-about-me) · [Tech Stack](#%EF%B8%8F-tech-stack) · [Languages](#%EF%B8%8F-languages) · [Projects](#-featured-projects) · [Certifications](#-certifications--learning) · [Stats](#-github-in-numbers) · [Beyond Code](#-beyond-the-keyboard) · [Connect](#-lets-connect)
 
 ---
 
@@ -66,9 +66,13 @@ I'm a **Computer Science student** at the Open University of Israel building acr
 </td>
 <td valign="top" width="38%">
 
-<img src="army-profile.jpeg" alt="Shimon Esterkin" width="100%" style="border-radius:12px" />
+<div align="center">
 
-<sub>Shimon Esterkin · CS student · Ashkelon, Israel</sub>
+<img src="assets/shimon-model-un.jpeg" alt="Shimon Esterkin at an international Model United Nations conference" width="92%" />
+
+<sub>Shimon Esterkin · CS student · builder · international perspective</sub>
+
+</div>
 
 </td>
 </tr>
@@ -191,6 +195,33 @@ I'm a **Computer Science student** at the Open University of Israel building acr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackhebrewisraeli&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
 
 </div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    BEYOND THE KEYBOARD                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🌍 Beyond the Keyboard
+
+<table>
+<tr>
+<td valign="middle" width="40%">
+
+<img src="assets/shimon-tbilisi.jpeg" alt="Shimon Esterkin in Tbilisi, Georgia" width="100%" />
+
+</td>
+<td valign="middle" width="60%">
+
+### Curiosity doesn't stop at code.
+
+Travel, languages, football, and meeting people from different backgrounds keep me curious and adaptable. They also shape how I approach software: listen carefully, understand the context, and build something people can actually use.
+
+**Hebrew · Russian · English · German · Portuguese**
+
+</td>
+</tr>
+</table>
 
 ---
 
